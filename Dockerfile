@@ -21,7 +21,7 @@ RUN npm install
 
 COPY . /app/
 
-ENV PUBLIC_FUNCTION_URL="https://vertex-ai-function-5w6cet5iea-el.a.run.app"
+ENV PUBLIC_FUNCTION_URL="https://vertex-ai-function-5r4wew-el.a.run.app"
 
 EXPOSE 8080
 
